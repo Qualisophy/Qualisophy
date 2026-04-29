@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<img width="1920" height="1920" alt="ISOTIPO - C 1" src="https://github.com/user-attachments/assets/b34e5ee8-edb1-4b36-9a1b-fe7576b7032a" />
+  <img src="<img width="1920" height="1920" alt="ISOTIPO-C-1" src="https://github.com/user-attachments/assets/a4610ac6-f456-449e-a8d2-aa8820468e9b" />
 " alt="Qualisophy Logo" width="200"/>
 
   # Qualisophy
