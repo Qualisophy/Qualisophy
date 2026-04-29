@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="<img width="1920" height="1920" alt="ISOTIPO-C-1" src="https://github.com/user-attachments/assets/a4610ac6-f456-449e-a8d2-aa8820468e9b" />
-" alt="Qualisophy Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a4610ac6-f456-449e-a8d2-aa8820468e9b" alt="Qualisophy Logo" width="200"/>
 
   # Qualisophy
   
   ### *Tecnología que Une, Talento que Transforma.*
 
-  [![Website](https://img.shields.io/badge/Visita_nuestra_Web-0D1B2A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qualisophy.com)
+  [![Website](https://img.shields.io/badge/Visita_nuestra_Web-0D1B2A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.qualisophy.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qualisophy/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qualisophy/)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qualisophy)
@@ -32,7 +31,9 @@ Fomentamos la empleabilidad y la reconversión profesional en áreas clave:
 
 ## 💻 Nuestro Stack y Áreas de Formación
 
-En nuestro perfil de GitHub encontrarás repositorios, recursos y proyectos prácticos desarrollados por nuestro equipo técnico y nuestros alumnos, enfocados en las tecnologías más demandadas del mercado:
+En nuestro perfil de GitHub encontrarás repositorios, recursos y proyectos prácticos desarrollados por nuestro equipo técnico y nuestros alumnos, enfocados en las tecnologías más demandadas del mercado.
+
+> 🎓 **¿Quieres dar el salto al sector IT o reciclarte profesionalmente?** > Descubre todos nuestros programas formativos, temarios y metodologías en **[nuestra página web oficial](https://www.qualisophy.com/)**.
 
 ### QA & Software Testing
 > Automatización, pruebas unitarias y calidad de software.
