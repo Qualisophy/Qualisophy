@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
+  <img src="<img width="1920" height="1920" alt="ISOTIPO - C 1" src="https://github.com/user-attachments/assets/b34e5ee8-edb1-4b36-9a1b-fe7576b7032a" />
+" alt="Qualisophy Logo" width="200"/>
 
-<!--
-**Qualisophy/Qualisophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Qualisophy
+  
+  ### *Tecnología que Une, Talento que Transforma.*
 
-Here are some ideas to get you started:
+  [![Website](https://img.shields.io/badge/Visita_nuestra_Web-0D1B2A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qualisophy.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qualisophy/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qualisophy/)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qualisophy)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Quiénes Somos
+
+En **Qualisophy** actuamos como un puente estratégico entre el **talento diverso** y el **sector tecnológico**. Impulsamos la inclusión sociolaboral capacitando a personas de diversos colectivos mediante **formación tecnológica adaptada, práctica y de vanguardia**. 
+
+Creemos firmemente que la diversidad es una ventaja competitiva. Por ello, ofrecemos un acompañamiento integral, de principio a fin, para conectar a perfiles altamente motivados con empresas que buscan innovación y compromiso.
+
+### 🤝 Nuestros Pilares de Inclusión
+Fomentamos la empleabilidad y la reconversión profesional en áreas clave:
+- 🧠 **Neurodivergencia**
+- 🌾 **Entorno Rural**
+- 🌍 **Talento Migrante**
+- 🛡️ **Riesgo de Exclusión**
+- 🔄 **Reconversión Laboral (Reskilling & Upskilling)**
+
+---
+
+## 💻 Nuestro Stack y Áreas de Formación
+
+En nuestro perfil de GitHub encontrarás repositorios, recursos y proyectos prácticos desarrollados por nuestro equipo técnico y nuestros alumnos, enfocados en las tecnologías más demandadas del mercado:
+
+### QA & Software Testing
+> Automatización, pruebas unitarias y calidad de software.
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-AI_for_Testing-000000?style=flat-square&logo=openai&logoColor=white)
+
+### Data & Analytics
+> Análisis y visualización de datos empresariales.
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel_Expert-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### DevOps & Automatización
+> Flujos de trabajo, integración continua y low-code.
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Make](https://img.shields.io/badge/-Make_NoCode-141414?style=flat-square&logo=make&logoColor=white)
+
+---
+
+## 🏢 Alianzas Corporativas
+
+Colaboramos con empresas a través de modelos flexibles para multiplicar el impacto social y tecnológico:
+* **Hiring Partner:** Incorporación de talento tecnológico cualificado e inclusivo.
+* **Upskilling Ad-Hoc:** Formación a medida para equipos corporativos.
+* **Sponsoring & Becas:** Financiación de proyectos y becas para nuestros alumnos.
+
+*(Si tu organización busca talento diverso o formación especializada, [hablemos](mailto:hello@qualisophy.com)).*
+
+---
+
+## 📫 Contacto
+
+📍 **Sede:** Calle Esteban Salazar Chapela 11, Málaga (España)  
+📧 **Email:** [hello@qualisophy.com](mailto:hello@qualisophy.com)  
+📞 **Teléfono:** +34 951 768 789  
+
+<p align="center">
+  <i>Construyendo un futuro tecnológico más inclusivo.</i>
+</p>
